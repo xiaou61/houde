@@ -404,8 +404,8 @@
         "use strict";
         i("182b")
     }, "62d4": function (s, t, i) {
-        // 头像
-        s.exports = i.p + "https://img1.imgtp.com/2023/09/26/D34R8tj5.jpg"
+        // 头像 男
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/28/mY7DT6U5.jpg"
     }, 7640: function (s, t, i) {
         // sifter图床
         // 1
@@ -419,7 +419,7 @@
     }, 9958: function (s, t, i) {
         // 图床在这里
         // 头像
-        s.exports = i.p + "https://img1.imgtp.com/2023/09/26/qTHUcrXl.jpg\n"
+        s.exports = i.p + "https://img1.imgtp.com/2023/09/28/E4ikiWFT.jpg"
     }, "9efc": function (s, t, i) {
     }, cc18: function (s, t, i) {
         "use strict";
